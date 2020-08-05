@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, I'm Onur AKKEPENEK</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurakkepenekk" alt="onurakkepenekk" /> </p>
 
-<p><strong>I am a computer engineering student at Eskişehir Osmangazi University.</strong></p>
 
+<p align="center"><strong>I am a computer engineering student at Eskişehir Osmangazi University.</strong></p>
+
+<br><br>
 
 - 🌱 I’m currently learning <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></p>
 
