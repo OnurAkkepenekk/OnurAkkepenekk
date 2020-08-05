@@ -5,6 +5,12 @@
 - 🌱 I’m currently learning **HTML, CSS**
 
 - 📫 How to reach me **akkepenek38@gmail.com**
+
+
+
+<p><strong>Programming languages I have worked before:</strong></p>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=onurakkepenekk&show_icons=true" alt="onurakkepenekk" /> </p>
 
 
