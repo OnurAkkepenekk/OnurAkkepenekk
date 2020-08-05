@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Onur AKKEPENEK</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurakkepenekk" alt="onurakkepenekk" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS**
+- 🌱 I’m currently learning <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></p>
 
 - 📫 How to reach me **akkepenek38@gmail.com**
 
