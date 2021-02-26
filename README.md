@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurakkepenekk" alt="onurakkepenekk" /> </p>
 
 
-<p align="center"><strong>I am a computer engineering student at Eskişehir Osmangazi University.</strong></p>
+<p align="center"><strong>I am a computer engineering student at Eskişehir Osmangazi University. I am improving myself on projects related to WEB.</strong></p>
 
 <br><br>
 
