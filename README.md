@@ -23,11 +23,12 @@
  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 <div >
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=onurakkepenekk&show_icons=true" alt="onurakkepenekk" />
+ <br>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onurakkepenekk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
    
-<br><br>
+<br>
 <p >
   <a href="https://www.linkedin.com/in/onur-akkepenek/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/onur-akkepenek-a60b0b1a2/" height="40" width="40" /></a>
 <a href="https://twitter.com/onurdasdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="onurdasdas" height="40" width="40" /></a>
